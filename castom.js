@@ -1,6 +1,6 @@
     
     
-    var marks = prompt("Enter your marks");
+    var marks = prompt("Enter your marks (0-100)");
         marks = parseInt(marks);
 
     switch(marks){
